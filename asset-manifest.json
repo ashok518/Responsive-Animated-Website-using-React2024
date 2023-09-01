@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Responsive-Animated-Website-using-React2024/static/css/main.ca5f04a2.css",
+    "main.js": "/Responsive-Animated-Website-using-React2024/static/js/main.f621f257.js",
+    "static/js/787.cc4e593a.chunk.js": "/Responsive-Animated-Website-using-React2024/static/js/787.cc4e593a.chunk.js",
+    "static/media/z1.jpg": "/Responsive-Animated-Website-using-React2024/static/media/z1.d84bbe959b436697e0e7.jpg",
+    "static/media/b1.jpg": "/Responsive-Animated-Website-using-React2024/static/media/b1.a681cafc36b8e9ccd4bb.jpg",
+    "static/media/a12.gif": "/Responsive-Animated-Website-using-React2024/static/media/a12.2c0dd407c1250fba9a18.gif",
+    "static/media/a2.png": "/Responsive-Animated-Website-using-React2024/static/media/a2.038a6c28d5bfc1ae2b74.png",
+    "static/media/birds.gif": "/Responsive-Animated-Website-using-React2024/static/media/birds.0b74eef14f85288cc227.gif",
+    "static/media/a1.jpg": "/Responsive-Animated-Website-using-React2024/static/media/a1.44458870976b7471dae9.jpg",
+    "index.html": "/Responsive-Animated-Website-using-React2024/index.html",
+    "main.ca5f04a2.css.map": "/Responsive-Animated-Website-using-React2024/static/css/main.ca5f04a2.css.map",
+    "main.f621f257.js.map": "/Responsive-Animated-Website-using-React2024/static/js/main.f621f257.js.map",
+    "787.cc4e593a.chunk.js.map": "/Responsive-Animated-Website-using-React2024/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5f04a2.css",
+    "static/js/main.f621f257.js"
+  ]
+}
